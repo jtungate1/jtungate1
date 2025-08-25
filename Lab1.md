@@ -1,11 +1,11 @@
 ## Lab 01
 
-- Name:
-- Email:
+- Name: Jordan Tungate    
+- Email: tungate.3@wright.edu
 
 ## Part 1 - GitHub Profile
 
-1. [your_github_username_here's GitHub Profile](FIXTHISURL-https://github.com/your_username)
+1. [jtungate1's GitHub Profile](https://github.com/jtungate1)
 
 ## Part 2 - Research
 
